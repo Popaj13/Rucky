@@ -1,4 +1,4 @@
-# Rucky 
+li# Rucky 
 [![GitHub](https://img.shields.io/github/license/mayankmetha/Rucky)](https://github.com/mayankmetha/Rucky/blob/master/LICENSE)
 [![Crowdin](https://badges.crowdin.net/rucky/localized.svg)](https://crwd.in/rucky)
 [![Android](https://img.shields.io/badge/android-6.x%2B-lightgrey)](https://github.com/mayankmetha/Rucky)
